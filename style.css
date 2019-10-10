@@ -1,0 +1,29 @@
+body{
+    max-width:800px;
+    width:100%;
+    margin:auto;
+    font-family:futura, Arial, Helvetica, san-serif; 
+    font-size: 24pt; 
+}
+
+h1 {
+    color:green;
+    font-size: 24pt;
+}
+
+p {
+    color:black;
+    font-family: "Helvetica", san-serif;
+}
+
+img {
+    max-width: 500px;
+}
+
+.red {
+    color:red;
+}
+
+li {
+    list-style-type: none;
+}
