@@ -47,7 +47,7 @@ img#logo {
 
 img#slideshow {
     border-bottom: 10px solid #021428;
-    width: 1100px;
+    background-size: cover;
 }
 
 img#study {
