@@ -45,7 +45,7 @@ img#logo {
     margin-top: 14px;
 }
 
-img#slideshow {
+#slideshow {
     border-bottom: 10px solid #021428;
     height: 300px;
     background-size: cover;
