@@ -47,9 +47,11 @@ img#logo {
 
 #slideshow {
     border-bottom: 10px solid #021428;
-    height: 300px;
+    /* width: 1400px; */
+    height: 400px;
+    background-image: url("../images/Header3.png");
     background-size: cover;
-    background-color: red;
+    
 }
 
 img#study {
